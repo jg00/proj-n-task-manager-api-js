@@ -6,7 +6,7 @@ Simple Task Manager API with Node and Express. Explore/setup CRUD operations wit
 
 ## To Run
 
-Create .env file at the root foler and add MONGO_URI MongoDB Atlas connection string.
+Create .env file at the root folder and add MONGO_URI MongoDB Atlas connection string.
 
 ## Technologies
 
